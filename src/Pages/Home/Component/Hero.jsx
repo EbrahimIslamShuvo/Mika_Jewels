@@ -43,7 +43,7 @@ const Hero = () => {
                         mousewheel={true}
                         pagination={{ clickable: true }}
                         modules={[Mousewheel, Pagination]}
-                        className="lg:w-full lg:h-[695px] md:w-10/12 md:h-[400px] w-10/12 h-[300px] overflow-hidden"
+                        className="lg:w-full lg:h-[695px] md:w-10/12 md:h-[400px] w-11/12 h-[300px] overflow-hidden"
                     >
                         <SwiperSlide>
                             <div className="relative w-full h-full">
