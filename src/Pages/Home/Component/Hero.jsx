@@ -82,7 +82,7 @@ const Hero = () => {
                                 <img className="w-full h-full object-cover" src={slide3} alt={`Slide3`} />
                                 <div className="absolute lg:top-50 top-25 lg:right-20 right-12 text-end text-white flex flex-col items-end">
                                     <p className="julius-sans-one-font text-xl md:text-3xl lg:text-5xl leading-snug">
-                                        <span className='text-[#C51F3E] lg:text-7xl md:text-5xl text-5xl'>20%</span> OFF<br />
+                                        <span className='text-[#C51F3E] lg:text-7xl md:text-5xl text-2xl'>20%</span> OFF<br />
                                         NECHLACE<br />
                                         COLLECTION<br />
                                     </p>
