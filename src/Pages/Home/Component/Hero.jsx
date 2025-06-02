@@ -48,7 +48,7 @@ const Hero = () => {
                         <SwiperSlide>
                             <div className="relative w-full h-full">
                                 <img className="w-full h-full object-cover" src={slide1} alt={`Slide1`} />
-                                <div className="absolute top-1/2 md:right-20 right-15 transform -translate-y-1/2 text-end text-white flex flex-col items-end">
+                                <div className="absolute top-1/2 md:right-20 right-10 transform -translate-y-1/2 text-end text-white flex flex-col items-end">
                                     <p className="julius-sans-one-font text-xl md:text-4xl lg:text-5xl leading-snug">
                                         <span className="text-[#BBACA4] text-2xl lg:block hidden">BE MIND . . .</span>
                                         <span className="text-[#BBACA4] text-sm lg:hidden">BE MIND ...</span><br />
@@ -80,7 +80,7 @@ const Hero = () => {
                         <SwiperSlide>
                             <div className="relative w-full h-full">
                                 <img className="w-full h-full object-cover" src={slide3} alt={`Slide3`} />
-                                <div className="absolute lg:top-50 top-25 lg:right-20 right-12 text-end text-white flex flex-col items-end">
+                                <div className="absolute lg:top-50 top-30 lg:right-20 right-8 text-end text-white flex flex-col items-end">
                                     <p className="julius-sans-one-font text-xl md:text-3xl lg:text-5xl leading-snug">
                                         <span className='text-[#C51F3E] lg:text-7xl md:text-5xl text-2xl'>20%</span> OFF<br />
                                         NECHLACE<br />
