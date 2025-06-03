@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 import { Mousewheel, Pagination } from 'swiper/modules';
 import 'swiper/css';
 import 'swiper/css/pagination';
-
+import "../Component/CSS/hero.css"
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 

@@ -9,25 +9,40 @@ const Footer = () => {
         <div>
             <div className="bg-black text-white mt-10">
                 <div className="w-8/12 mx-auto py-10">
-                    <div className="flex justify-between items-start">
-                        <div className="">
+                    <div className="lg:hidden mb-5">
+                        <img src={logo} alt="" />
+                        <h1 className='julius-sans-one-font mt-2 text-2xl'><span className='maven-pro-font font-bold'>Mika</span> Jewels ltd.</h1>
+                    </div>
+                    <div className="flex flex-col md:flex-row justify-between items-start">
+                        <div className="hidden lg:block">
                             <img src={logo} alt="" />
                             <h1 className='julius-sans-one-font mt-2 text-2xl'><span className='maven-pro-font font-bold'>Mika</span> Jewels ltd.</h1>
                         </div>
-                        <div className="julius-sans-one-font flex flex-col gap-2">
-                            <p className='text-xl font-semibold border-b text-gray-500'>Pages</p>
-                            <NavLink to={"/"}>Home</NavLink>
-                            <NavLink to={"/shop"}>SHOP</NavLink>
-                            <NavLink to={"/blog"}>BLOG</NavLink>
-                            <NavLink to={"/about"}>ABOUT</NavLink>
-                            <NavLink to={"/contact"}>CONTACT</NavLink>
+                        <div className="flex justify-between w-9/12 md:w-auto mb-5">
+                            <div className="julius-sans-one-font flex flex-col gap-2">
+                                <p className='text-xl font-semibold border-b text-gray-500'>Pages</p>
+                                <NavLink to={"/"}>Home</NavLink>
+                                <NavLink to={"/shop"}>SHOP</NavLink>
+                                <NavLink to={"/blog"}>BLOG</NavLink>
+                                <NavLink to={"/about"}>ABOUT</NavLink>
+                                <NavLink to={"/contact"}>CONTACT</NavLink>
+                            </div>
+                            <div className="julius-sans-one-font flex flex-col gap-2 md:hidden">
+                                <p className='text-xl font-semibold border-b text-gray-500'>Categories</p>
+                                <NavLink to={"/"}>diamond</NavLink>
+                                <NavLink to={"/shop"}>pendant</NavLink>
+                                <NavLink to={"/blog"}>white perl</NavLink>
+                                <NavLink to={"/about"}>gold</NavLink>
+                            </div>
                         </div>
-                        <div className="julius-sans-one-font flex flex-col gap-2">
-                            <p className='text-xl font-semibold border-b text-gray-500'>Categories</p>
-                            <NavLink to={"/"}>diamond</NavLink>
-                            <NavLink to={"/shop"}>pendant</NavLink>
-                            <NavLink to={"/blog"}>white perl</NavLink>
-                            <NavLink to={"/about"}>gold</NavLink>
+                        <div className=" hidden md:block">
+                            <div className="julius-sans-one-font flex flex-col gap-2">
+                                <p className='text-xl font-semibold border-b text-gray-500'>Categories</p>
+                                <NavLink to={"/"}>diamond</NavLink>
+                                <NavLink to={"/shop"}>pendant</NavLink>
+                                <NavLink to={"/blog"}>white perl</NavLink>
+                                <NavLink to={"/about"}>gold</NavLink>
+                            </div>
                         </div>
                         <div className="flex flex-col gap-2">
                             <p className='text-xl font-semibold border-b text-gray-500'>Contact</p>
@@ -49,7 +64,7 @@ const Footer = () => {
                         <p>Copyright © 2025 by <a href="">MD.Ebrahim Islam Shuvo</a></p>
                     </div>
                     <div className="flex items-center gap-2">
-                        <FaFacebookF className=' hover:text-gray-400 hover:-translate-y-1 duration-700'/>
+                        <FaFacebookF className=' hover:text-gray-400 hover:-translate-y-1 duration-700' />
                         <FaTwitter className=' hover:text-gray-400 hover:-translate-y-1 duration-700' />
                         <GrInstagram className=' hover:text-gray-400 hover:-translate-y-1 duration-700' />
                         <FaTiktok className=' hover:text-gray-400 hover:-translate-y-1 duration-700' />

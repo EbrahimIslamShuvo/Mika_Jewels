@@ -1,0 +1,702 @@
+[
+    {
+        "id": "DIA-NECK-001",
+        "name": "Eternal Diamond Necklace",
+        "product_image" : "https://www.naturaldiamonds.com/wp-content/uploads/2024/07/KZP-8781PL_wh.jpg",
+        "short_description": "A luxurious diamond necklace with 18K white gold setting, featuring a 1.5-carat center stone.",
+        "long_description": "The Eternal Diamond Necklace boasts a brilliant 1.5-carat round-cut diamond as its centerpiece, surrounded by 0.5 carats of smaller diamonds in a halo setting. Crafted in 18K white gold, this piece reflects light beautifully for maximum sparkle. The secure lobster clasp and adjustable 16-18 inch chain ensure a perfect fit. Ideal for weddings, galas, or as a timeless gift. Each diamond is conflict-free and GIA-certified.",
+        "metal": "diamond",
+        "movement": "necklace",
+        "size": "16-18 inches",
+        "price": 3499.99,
+        "quantity_left": 8,
+        "sold_quantity": 52,
+        "added_date": "2023-05-15",
+        "reviews": [
+            {
+                "reviewer_name": "Sarah Johnson",
+                "date": "2023-06-20",
+                "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+                "comment": "Absolutely stunning! The diamonds sparkle so brightly. Worth every penny."
+            },
+            {
+                "reviewer_name": "Michael Brown",
+                "date": "2023-07-10",
+                "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+                "comment": "Bought this for my wife’s anniversary. She loved it! The craftsmanship is exceptional."
+            }
+        ]
+    },
+    {
+        "id": "DIA-NECK-002",
+        "name": "Royal Solitaire Pendant",
+        "product_image" : "https://ik.imagekit.io/plushvie/tr:w-1200,h-1200,cm-pad_resize,pr-true/image/catalog/candere/ziah/kc00080_3.jpg",
+        "short_description": "A minimalist yet elegant solitaire diamond pendant set in 14K rose gold.",
+        "long_description": "The Royal Solitaire Pendant features a 0.75-carat princess-cut diamond suspended on a delicate 14K rose gold chain (18 inches). Its sleek design makes it versatile for both casual and formal wear. The diamond is VS2 clarity and F color, ensuring brilliance. The pendant comes with a secure spring-ring clasp. A perfect gift for birthdays, graduations, or as a self-purchase for everyday elegance.",
+        "metal": "diamond",
+        "movement": "necklace",
+        "size": "18 inches",
+        "price": 1899.99,
+        "quantity_left": 15,
+        "sold_quantity": 28,
+        "added_date": "2023-08-10",
+        "reviews": [
+            {
+                "reviewer_name": "Olivia Smith",
+                "date": "2023-09-05",
+                "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+                "comment": "Simple but breathtaking. The rose gold complements my skin tone perfectly."
+            },
+            {
+                "reviewer_name": "James Wilson",
+                "date": "2023-10-12",
+                "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+                "comment": "Gave this to my daughter for her graduation. She wears it every day!"
+            }
+        ]
+    },
+    {
+        "id": "DIA-NECK-003",
+        "name": "Infinity Diamond Choker",
+        "product_image" : "https://www.maniladiamondstudio.com/wp-content/uploads/2022/10/B33-A-600x600.jpg",
+        "short_description": "A statement choker with alternating diamonds and platinum links, symbolizing eternal love.",
+        "long_description": "The Infinity Diamond Choker is a bold yet feminine piece, featuring 2 carats of round diamonds set in a geometric platinum chain (15 inches). The alternating diamond clusters and polished links create a striking contrast. Ideal for black-tie events or as a bridal accessory. The diamonds are SI1 clarity and G-H color, offering excellent value without compromising sparkle. Includes a hidden safety clasp for security.",
+        "metal": "diamond",
+        "movement": "necklace",
+        "size": "15 inches",
+        "price": 4999.99,
+        "quantity_left": 5,
+        "sold_quantity": 18,
+        "added_date": "2023-11-22",
+        "reviews": [
+            {
+                "reviewer_name": "Sophia Lee",
+                "date": "2024-01-15",
+                "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+                "comment": "This choker is a showstopper! Received so many compliments at my wedding."
+            },
+            {
+                "reviewer_name": "David Clark",
+                "date": "2024-02-03",
+                "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+                "comment": "Worth the splurge. The platinum feels luxurious against the skin."
+            }
+        ]
+    },
+    {
+        "id": "DIA-NECK-004",
+        "name": "Vintage Diamond Locket",
+        "product_image" : "https://listany-prod.s3.amazonaws.com/images/Diamond-World/p060m",
+        "short_description": "A heirloom-quality locket with floral diamond accents and a 14K yellow gold chain.",
+        "long_description": "The Vintage Diamond Locket is a nostalgic piece featuring a 1-carat old European-cut diamond at its center, surrounded by floral-inspired milgrain detailing (14K yellow gold). The locket opens to hold a small photo or keepsake. The 20-inch chain is adjustable for layering. Perfect for passing down through generations or as a romantic gift. The diamond is I1 clarity with warm tonality, adding to its vintage charm.",
+        "metal": "diamond",
+        "movement": "necklace",
+        "size": "20 inches (adjustable)",
+        "price": 2799.99,
+        "quantity_left": 10,
+        "sold_quantity": 22,
+        "added_date": "2024-01-05",
+        "reviews": [
+            {
+                "reviewer_name": "Emily Taylor",
+                "date": "2024-03-10",
+                "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+                "comment": "The craftsmanship is exquisite. Feels like a piece of history."
+            },
+            {
+                "reviewer_name": "Robert Harris",
+                "date": "2024-04-18",
+                "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+                "comment": "Bought this for my mother’s 60th birthday. She cried—it’s that beautiful."
+            }
+        ]
+    },
+    {
+        "id": "DIA-NECK-005",
+        "name": "Modern Diamond Bar Necklace",
+        "product_image" : "https://th.bing.com/th/id/OIP.z9o0oYjoPa0MJFnSIqZ7sAHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A sleek 14K white gold bar necklace with a 0.5-carat diamond, perfect for layering.",
+        "long_description": "The Modern Diamond Bar Necklace is a minimalist’s dream, featuring a 0.5-carat emerald-cut diamond set horizontally on a 14K white gold bar (16-inch chain). The clean lines make it ideal for stacking with other necklaces or wearing solo for understated elegance. The diamond is VS2 clarity and E color, offering exceptional brilliance. The lightweight design ensures all-day comfort. A versatile piece for work or weekend wear.",
+        "metal": "diamond",
+        "movement": "necklace",
+        "size": "16 inches",
+        "price": 1299.99,
+        "quantity_left": 20,
+        "sold_quantity": 35,
+        "added_date": "2024-02-14",
+        "reviews": [
+            {
+                "reviewer_name": "Ava Martinez",
+                "date": "2024-03-25",
+                "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+                "comment": "Love how subtle yet chic this is. Goes with everything!"
+            },
+            {
+                "reviewer_name": "Daniel White",
+                "date": "2024-04-05",
+                "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+                "comment": "Perfect gift for my wife. She layers it with her other necklaces beautifully."
+            }
+        ]
+    },
+    {
+        "id": "DIA-RING-001",
+        "name": "Classic Solitaire Diamond Ring",
+        "product_image" : "https://th.bing.com/th/id/R.deb2db9e795eef389faebf23af673067?rik=KqPJMG39p9oHuA&pid=ImgRaw&r=0",
+        "short_description": "A timeless 18K white gold solitaire ring featuring a 1-carat round brilliant diamond.",
+        "long_description": "The Classic Solitaire Diamond Ring showcases a stunning 1-carat round brilliant diamond (G color, VS2 clarity) set in a secure four-prong 18K white gold band. Its minimalist design emphasizes the diamond's natural brilliance, making it perfect for engagements or anniversaries. The band is available in sizes 4-9 and can be resized. The diamond is ethically sourced and comes with a GIA certification. A symbol of enduring love and elegance.",
+        "metal": "diamond",
+        "movement": "ring",
+        "size": "4-9 (resizable)",
+        "price": 5499.99,
+        "quantity_left": 10,
+        "sold_quantity": 68,
+        "added_date": "2023-04-12",
+        "reviews": [
+            {
+                "reviewer_name": "Jessica Taylor",
+                "date": "2023-05-18",
+                "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+                "comment": "Absolutely perfect! The diamond sparkles from every angle. My fiancée adores it."
+            },
+            {
+                "reviewer_name": "Ryan Miller",
+                "date": "2023-06-22",
+                "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+                "comment": "The craftsmanship is impeccable. Worth every penny for such a high-quality diamond."
+            }
+        ]
+    },
+    {
+        "id": "DIA-RING-002",
+        "name": "Halo Diamond Engagement Ring",
+        "product_image" : "https://th.bing.com/th/id/OIP._QSYXqj9mImYLqn2Aqdj-AHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A dazzling 14K rose gold ring with a 0.75-carat center diamond surrounded by a halo of smaller diamonds.",
+        "long_description": "The Halo Diamond Engagement Ring features a 0.75-carat round brilliant center diamond (H color, SI1 clarity) encircled by a halo of 0.25 carats of smaller diamonds, all set in 14K rose gold. The delicate pavé band adds extra sparkle. Available in sizes 3-8, this ring is ideal for those who love a romantic, vintage-inspired look. The diamonds are conflict-free, and the ring includes a complimentary cleaning kit.",
+        "metal": "diamond",
+        "movement": "ring",
+        "size": "3-8 (resizable)",
+        "price": 3299.99,
+        "quantity_left": 15,
+        "sold_quantity": 42,
+        "added_date": "2023-07-30",
+        "reviews": [
+            {
+                "reviewer_name": "Amanda Clark",
+                "date": "2023-08-15",
+                "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+                "comment": "The halo makes the center stone look huge! So elegant and feminine."
+            },
+            {
+                "reviewer_name": "Ethan Harris",
+                "date": "2023-09-10",
+                "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+                "comment": "Proposed with this ring—she said YES! The rose gold is unique and beautiful."
+            }
+        ]
+    },
+    {
+        "id": "DIA-RING-003",
+        "name": "Three-Stone Diamond Ring",
+        "product_image" : "https://www.thediamondauthority.org/wp-content/uploads/2011/05/Three-Stone-Ring-2.jpg",
+        "short_description": "A symbolic 14K yellow gold ring with three round diamonds representing past, present, and future.",
+        "long_description": "The Three-Stone Diamond Ring is a meaningful design featuring three round brilliant diamonds (total 1.2 carats, H-I color, SI1-SI2 clarity) set in 14K yellow gold. The center stone is slightly larger, flanked by two matching diamonds. The band is polished for a classic finish. Available in sizes 5-10, this ring is perfect for milestone anniversaries or as a promise ring. Each diamond is responsibly sourced, and the ring comes with a lifetime warranty.",
+        "metal": "diamond",
+        "movement": "ring",
+        "size": "5-10 (resizable)",
+        "price": 4199.99,
+        "quantity_left": 8,
+        "sold_quantity": 25,
+        "added_date": "2023-10-05",
+        "reviews": [
+            {
+                "reviewer_name": "Sophia Lee",
+                "date": "2023-11-20",
+                "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+                "comment": "The symbolism is beautiful, and the diamonds shine brilliantly. My husband nailed our 10th-anniversary gift!"
+            },
+            {
+                "reviewer_name": "Daniel White",
+                "date": "2024-01-05",
+                "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+                "comment": "The yellow gold gives it a warm, vintage feel. Very happy with the purchase."
+            }
+        ]
+    },
+    {
+        "id": "DIA-RING-004",
+        "name": "Vintage-Inspired Diamond Band",
+        "product_image" : "https://th.bing.com/th/id/OIP.IRND0utJmdHQCGNhDncODQHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A unique 14K white gold band with alternating diamonds and intricate milgrain detailing.",
+        "long_description": "The Vintage-Inspired Diamond Band is a work of art, featuring 0.5 carats of round diamonds set in a 14K white gold band with milgrain edges and hand-engraved floral motifs. The diamonds are SI2 clarity and G-H color, offering vintage charm without compromising sparkle. Available in sizes 4-9, this ring is perfect for stacking or wearing solo. Ideal for those who love antique-inspired jewelry with modern durability.",
+        "metal": "diamond",
+        "movement": "ring",
+        "size": "4-9 (resizable)",
+        "price": 1899.99,
+        "quantity_left": 12,
+        "sold_quantity": 30,
+        "added_date": "2024-01-18",
+        "reviews": [
+            {
+                "reviewer_name": "Lily Adams",
+                "date": "2024-02-14",
+                "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+                "comment": "The detailing is exquisite! It looks like an heirloom but brand new."
+            },
+            {
+                "reviewer_name": "Nathan King",
+                "date": "2024-03-08",
+                "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+                "comment": "Bought this as a wedding band for my wife. She loves how it pairs with her engagement ring."
+            }
+        ]
+    },
+    {
+        "id": "DIA-RING-005",
+        "name": "Modern Princess-Cut Diamond Ring",
+        "product_image" : "https://th.bing.com/th/id/OIP.xFfB8IzkF23W_NaUMzkZCQHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A sleek 18K platinum ring with a 0.9-carat princess-cut diamond and tapered baguette side stones.",
+        "long_description": "The Modern Princess-Cut Diamond Ring features a 0.9-carat princess-cut diamond (F color, VS1 clarity) flanked by two tapered baguette diamonds, all set in 18K platinum. The geometric design is both bold and elegant, appealing to modern tastes. The band is polished for a mirror-like finish. Available in sizes 4-8, this ring is perfect for those who prefer clean lines and contemporary sophistication. Includes a certification of authenticity.",
+        "metal": "diamond",
+        "movement": "ring",
+        "size": "4-8 (resizable)",
+        "price": 4799.99,
+        "quantity_left": 6,
+        "sold_quantity": 20,
+        "added_date": "2024-03-01",
+        "reviews": [
+            {
+                "reviewer_name": "Emma Davis",
+                "date": "2024-04-10",
+                "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+                "comment": "The princess cut is so sharp and modern. Gets compliments everywhere I go!"
+            },
+            {
+                "reviewer_name": "Jacob Wilson",
+                "date": "2024-05-12",
+                "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+                "comment": "The platinum feels luxurious and heavy. Exactly what I wanted for my proposal."
+            }
+        ]
+    },
+    {
+        "id": "DIA-EAR-001",
+        "name": "Classic Diamond Stud Earrings",
+        "product_image" : "https://th.bing.com/th/id/OIP.znmtDkQ2RW60SCskyqHNbgHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "Timeless 18K white gold stud earrings featuring 1-carat round brilliant diamonds (total weight).",
+        "long_description": "These exquisite diamond stud earrings showcase two 0.5-carat round brilliant diamonds (G color, VS2 clarity) set in secure four-prong 18K white gold settings. The classic design offers maximum sparkle from every angle, making them perfect for both everyday wear and special occasions. Each diamond is ethically sourced and GIA-certified. The earrings come with friction-back posts for security and comfort. A must-have for any jewelry collection.",
+        "metal": "diamond",
+        "movement": "earrings",
+        "size": "6mm diameter",
+        "price": 2999.99,
+        "quantity_left": 15,
+        "sold_quantity": 82,
+        "added_date": "2023-03-10",
+        "reviews": [
+            {
+                "reviewer_name": "Emily Chen",
+                "date": "2023-04-15",
+                "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+                "comment": "My everyday luxury! The diamonds catch the light beautifully."
+            },
+            {
+                "reviewer_name": "David Wilson",
+                "date": "2023-05-20",
+                "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+                "comment": "Bought these for my wife's birthday. She wears them constantly - perfect size."
+            }
+        ]
+    },
+    {
+        "id": "DIA-EAR-002",
+        "name": "Diamond Halo Drop Earrings",
+        "product_image" : "https://th.bing.com/th/id/OIP.PqJZ9OlWM3ZrskrE-b6StgHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "Elegant 14K rose gold drop earrings with center diamonds surrounded by sparkling halos.",
+        "long_description": "These stunning drop earrings feature 0.25-carat round brilliant center diamonds (H color, SI1 clarity) each encircled by a halo of 0.15 carats of smaller diamonds, suspended from 14K rose gold French wires. The total diamond weight is 0.8 carats. The elegant 1-inch drop length flatters all face shapes. Perfect for weddings, parties, or adding glamour to professional attire. Includes secure butterfly backs.",
+        "metal": "diamond",
+        "movement": "earrings",
+        "size": "1 inch drop",
+        "price": 1899.99,
+        "quantity_left": 12,
+        "sold_quantity": 45,
+        "added_date": "2023-06-18",
+        "reviews": [
+            {
+                "reviewer_name": "Sophia Rodriguez",
+                "date": "2023-07-22",
+                "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+                "comment": "The rose gold makes the diamonds glow! So feminine and elegant."
+            },
+            {
+                "reviewer_name": "Michael Johnson",
+                "date": "2023-08-30",
+                "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+                "comment": "Gave these to my daughter for graduation. She says they're the perfect 'grown-up' jewelry."
+            }
+        ]
+    },
+    {
+        "id": "DIA-EAR-003",
+        "name": "Diamond Hoop Earrings",
+        "product_image" : "https://th.bing.com/th/id/OIP.T6gKJydJJJVisRwHWA4TBAHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "Luxurious 18K yellow gold hoops with pavé-set diamonds totaling 1.5 carats.",
+        "long_description": "These dazzling hoop earrings feature 1.5 carats of round brilliant diamonds (H-I color, SI1-SI2 clarity) pavé-set in 18K yellow gold. The 1-inch diameter hoops offer substantial presence without being overwhelming. The continuous diamond setting ensures sparkle from every angle. The secure hinge-and-latch closure keeps them safely in place. Ideal for making a statement at special events or elevating everyday outfits.",
+        "metal": "diamond",
+        "movement": "earrings",
+        "size": "1 inch diameter",
+        "price": 4299.99,
+        "quantity_left": 8,
+        "sold_quantity": 28,
+        "added_date": "2023-09-05",
+        "reviews": [
+            {
+                "reviewer_name": "Olivia Martin",
+                "date": "2023-10-12",
+                "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+                "comment": "Worth every penny! The diamonds are so well-set - no gaps or unevenness."
+            },
+            {
+                "reviewer_name": "Robert Kim",
+                "date": "2023-11-18",
+                "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+                "comment": "My wife gets compliments every time she wears these. The yellow gold is rich and warm."
+            }
+        ]
+    },
+    {
+        "id": "DIA-EAR-004",
+        "name": "Diamond Cluster Ear Jackets",
+        "product_image" : "https://th.bing.com/th/id/OIP.KKRvOH3VgfdQ40mPBZk3dgHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "Modern 14K white gold ear jackets with geometric diamond clusters (0.75 carats total).",
+        "long_description": "These contemporary ear jackets feature 0.75 carats of round brilliant diamonds (G-H color, VS2-SI1 clarity) arranged in geometric clusters on 14K white gold. The design includes a stud post with a decorative jacket that sits behind the earlobe, creating a layered look. The total length is 1.2 inches. Perfect for mixing with other earrings or wearing alone for modern edge. Includes rubber stoppers for added security.",
+        "metal": "diamond",
+        "movement": "earrings",
+        "size": "1.2 inches long",
+        "price": 2499.99,
+        "quantity_left": 10,
+        "sold_quantity": 35,
+        "added_date": "2024-01-15",
+        "reviews": [
+            {
+                "reviewer_name": "Ava Thompson",
+                "date": "2024-02-20",
+                "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+                "comment": "So unique! The geometric design makes them stand out from typical diamond earrings."
+            },
+            {
+                "reviewer_name": "Daniel Lee",
+                "date": "2024-03-25",
+                "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+                "comment": "Bought these for my fashion-forward sister. She says they're her new favorite accessory."
+            }
+        ]
+    },
+    {
+        "id": "DIA-EAR-005",
+        "name": "Diamond Chandelier Earrings",
+        "product_image" : "https://a.1stdibscdn.com/gorgeous-18-karat-gold-and-diamonds-wedding-earring-for-sale/1121189/j_112862421610794932753/11286242_master.jpg",
+        "short_description": "Dramatic 18K white gold chandeliers with 2.5 carats of cascading diamonds.",
+        "long_description": "These show-stopping chandelier earrings feature 2.5 carats of round and pear-cut diamonds (G-H color, VS2 clarity) arranged in a cascading design from 18K white gold. The intricate setting allows maximum movement and sparkle, with the longest drop measuring 2 inches. Perfect for black-tie events, galas, or as a bold bridal accessory. Includes secure lever-back closures for all-night wear. Each diamond is conflict-free and hand-selected for brilliance.",
+        "metal": "diamond",
+        "movement": "earrings",
+        "size": "2 inches long",
+        "price": 6999.99,
+        "quantity_left": 5,
+        "sold_quantity": 15,
+        "added_date": "2024-04-01",
+        "reviews": [
+            {
+                "reviewer_name": "Sophie Williams",
+                "date": "2024-05-10",
+                "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+                "comment": "Absolutely breathtaking! Wore these to the Met Gala after-party - they photographed amazingly."
+            },
+            {
+                "reviewer_name": "James Carter",
+                "date": "2024-05-28",
+                "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+                "comment": "An investment piece for sure. The craftsmanship is museum-quality."
+            }
+        ]
+    },
+    {
+        "id": "DIA-BRAC-001",
+        "name": "Tennis Diamond Bracelet",
+        "product_image" : "https://th.bing.com/th/id/OIP.3TOPb4dxWXjpIinFI8cKQgHaGK?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A timeless 14K white gold bracelet with a continuous line of dazzling diamonds.",
+        "long_description": "This classic tennis bracelet features 3 carats of round brilliant diamonds (G-H color, VS2 clarity) set in a sleek 14K white gold chain. The diamonds are prong-set for maximum sparkle and security, with a total length of 7 inches (adjustable by removing links). The hidden box clasp ensures a seamless look. Perfect for formal events or as an everyday luxury piece. Each diamond is ethically sourced and comes with a certification of authenticity.",
+        "metal": "diamond",
+        "movement": "bracelet",
+        "size": "7 inches (adjustable)",
+        "price": 8999.99,
+        "quantity_left": 6,
+        "sold_quantity": 24,
+        "added_date": "2023-05-10",
+        "reviews": [
+            {
+                "reviewer_name": "Emma Wilson",
+                "date": "2023-06-15",
+                "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+                "comment": "The most elegant bracelet I own! The diamonds sparkle non-stop."
+            },
+            {
+                "reviewer_name": "Daniel Kim",
+                "date": "2023-07-22",
+                "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+                "comment": "Bought this for my wife's 40th birthday. She hasn't taken it off since!"
+            }
+        ]
+    },
+    {
+        "id": "DIA-BRAC-002",
+        "name": "Diamond Bangle Bracelet",
+        "product_image" : "https://th.bing.com/th/id/OIP.7acNrDhCe5_ePyBBvnP5rgHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A solid 18K yellow gold bangle with alternating diamond and gold segments.",
+        "long_description": "This substantial bangle features 1.5 carats of round brilliant diamonds (H-I color, SI1 clarity) set in alternating segments with polished 18K yellow gold. The hinged design allows for easy wearing, and the bangle measures 2.5 inches in diameter (fits most wrists). The contrast between the diamonds and warm gold creates a striking effect. Ideal for stacking with other bangles or wearing alone as a statement piece. Includes a safety clasp for security.",
+        "metal": "diamond",
+        "movement": "bracelet",
+        "size": "2.5 inches diameter",
+        "price": 6499.99,
+        "quantity_left": 8,
+        "sold_quantity": 18,
+        "added_date": "2023-08-12",
+        "reviews": [
+            {
+                "reviewer_name": "Sophia Chen",
+                "date": "2023-09-18",
+                "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+                "comment": "The weight feels luxurious, and the diamonds add just the right amount of bling."
+            },
+            {
+                "reviewer_name": "Michael Brown",
+                "date": "2023-10-05",
+                "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+                "comment": "My mother loved this for her anniversary gift. The craftsmanship is excellent."
+            }
+        ]
+    },
+    {
+        "id": "DIA-BRAC-003",
+        "name": "Pavé Diamond Line Bracelet",
+        "product_image" : "https://th.bing.com/th/id/OIP.AFS4nXbi54tAiec-gzbKZgHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A delicate 14K rose gold chain bracelet with a continuous line of pavé-set diamonds.",
+        "long_description": "This elegant bracelet features 0.75 carats of round brilliant diamonds (G-H color, VS2 clarity) pavé-set in a dainty 14K rose gold chain. The diamonds are set so closely together they appear as a continuous line of sparkle. The bracelet measures 7 inches with a 1.5-inch extender for adjustability. The lobster clasp ensures security. Perfect for layering with other bracelets or wearing solo for subtle glamour. Ideal for both casual and formal occasions.",
+        "metal": "diamond",
+        "movement": "bracelet",
+        "size": "7 inches (with extender)",
+        "price": 3299.99,
+        "quantity_left": 12,
+        "sold_quantity": 35,
+        "added_date": "2023-11-05",
+        "reviews": [
+            {
+                "reviewer_name": "Olivia Martinez",
+                "date": "2023-12-10",
+                "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+                "comment": "So delicate yet full of sparkle! I wear it every day and it hasn't snagged once."
+            },
+            {
+                "reviewer_name": "David Johnson",
+                "date": "2024-01-15",
+                "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+                "comment": "Gave this to my girlfriend for Christmas. She loves how feminine the rose gold looks."
+            }
+        ]
+    },
+    {
+        "id": "DIA-BRAC-004",
+        "name": "Diamond Charm Bracelet",
+        "product_image" : "https://30d01f9adcdd9ca8bb29-e7821b1789d66a252f67999ba68e5823.ssl.cf2.rackcdn.com/5-diamond-charm-bracelet-in-white-gold-FD-BRC8670ANGLE3-NL-WG.jpg",
+        "short_description": "A playful 14K white gold chain bracelet with three dangling diamond charms.",
+        "long_description": "This charming bracelet features three round brilliant diamond charms (total 0.5 carats, H-I color, SI1 clarity) dangling from a 14K white gold chain. The charms include a heart (0.2 ct), star (0.15 ct), and circle (0.15 ct), each moving freely for playful sparkle. The bracelet measures 7 inches with a 1-inch extender. The toggle clasp is both secure and decorative. Perfect for gifting to mark special occasions or adding a whimsical touch to your jewelry collection.",
+        "metal": "diamond",
+        "movement": "bracelet",
+        "size": "7 inches (with extender)",
+        "price": 2299.99,
+        "quantity_left": 15,
+        "sold_quantity": 28,
+        "added_date": "2024-02-14",
+        "reviews": [
+            {
+                "reviewer_name": "Lily Adams",
+                "date": "2024-03-08",
+                "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+                "comment": "The charms are adorable! I love how they catch the light with every movement."
+            },
+            {
+                "reviewer_name": "Robert Harris",
+                "date": "2024-04-20",
+                "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+                "comment": "Bought this for my daughter's sweet sixteen. The quality exceeds the price point."
+            }
+        ]
+    },
+    {
+        "id": "DIA-BRAC-005",
+        "name": "Eternity Diamond Cuff Bracelet",
+        "product_image" : "https://th.bing.com/th/id/OIP.lyBbDhsc0MhRRKfrQXljIQHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A bold 18K platinum cuff bracelet with diamonds encircling the entire band.",
+        "long_description": "This striking cuff bracelet features 2 carats of round brilliant diamonds (F-G color, VS1 clarity) set in an 18K platinum band that encircles the wrist completely. The diamonds are channel-set for maximum security and a sleek, modern look. The cuff measures 2 inches wide and comes in small (6.5 inches), medium (7 inches), and large (7.5 inches). Makes a dramatic statement for black-tie events or as a power accessory for the office.",
+        "metal": "diamond",
+        "movement": "bracelet",
+        "size": "S (6.5\"), M (7\"), L (7.5\")",
+        "price": 7999.99,
+        "quantity_left": 5,
+        "sold_quantity": 12,
+        "added_date": "2024-05-01",
+        "reviews": [
+            {
+                "reviewer_name": "Sophie Williams",
+                "date": "2024-05-20",
+                "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+                "comment": "This cuff commands attention! The platinum feels substantial and luxurious."
+            },
+            {
+                "reviewer_name": "James Carter",
+                "date": "2024-06-05",
+                "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+                "comment": "Impressive craftsmanship. The diamonds are perfectly aligned with no gaps."
+            }
+        ]
+    },
+    {
+        "id": "DIA-BANG-001",
+        "name": "Classic Diamond Hinged Bangle",
+        "product_image" : "https://th.bing.com/th/id/OIP.1OPpssGtfpS9x6385PBogwHaFj?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A timeless 18K white gold bangle with a continuous row of brilliant-cut diamonds.",
+        "long_description": "This elegant hinged bangle features 2.5 carats of round brilliant diamonds (G color, VS2 clarity) set in a seamless 18K white gold band. The diamonds are prong-set to maximize sparkle, and the secure hinge mechanism with safety clasp ensures easy wear. The inner diameter measures 2.4 inches, fitting most wrists comfortably. Perfect for stacking or wearing solo, this bangle transitions effortlessly from day to night. Each diamond is ethically sourced and comes with certification.",
+        "metal": "diamond",
+        "movement": "bangle",
+        "size": "2.4\" inner diameter",
+        "price": 8999.99,
+        "quantity_left": 7,
+        "sold_quantity": 23,
+        "added_date": "2023-04-15",
+        "reviews": [
+            {
+                "reviewer_name": "Emily Chen",
+                "date": "2023-05-20",
+                "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+                "comment": "The diamonds catch light beautifully from every angle. My most worn piece!"
+            },
+            {
+                "reviewer_name": "David Wilson",
+                "date": "2023-06-12",
+                "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+                "comment": "Bought this for our 25th anniversary. The craftsmanship is exceptional."
+            }
+        ]
+    },
+    {
+        "id": "DIA-BANG-002",
+        "name": "Pavé Diamond Open Bangle",
+        "product_image" : "https://th.bing.com/th/id/OIP.Z9O4kWf8tW5cLQjKxvZ_lgHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A modern 14K rose gold open bangle with full pavé diamond setting.",
+        "long_description": "This contemporary bangle features 1.8 carats of round brilliant diamonds (H color, SI1 clarity) pavé-set in a 14K rose gold open cuff design. The flexible opening allows for easy wear while maintaining its shape. The diamonds cover the entire visible surface for maximum sparkle. Measures 2.5\" inner diameter with a 0.5\" opening. The warm rose gold complements all skin tones, making it a versatile addition to any jewelry collection.",
+        "metal": "diamond",
+        "movement": "bangle",
+        "size": "2.5\" inner diameter",
+        "price": 6499.99,
+        "quantity_left": 9,
+        "sold_quantity": 18,
+        "added_date": "2023-07-10",
+        "reviews": [
+            {
+                "reviewer_name": "Sophia Rodriguez",
+                "date": "2023-08-15",
+                "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+                "comment": "So comfortable to wear all day! The rose gold makes the diamonds glow."
+            },
+            {
+                "reviewer_name": "Michael Johnson",
+                "date": "2023-09-22",
+                "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+                "comment": "My wife loves how this looks stacked with her other bangles. Great quality."
+            }
+        ]
+    },
+    {
+        "id": "DIA-BANG-003",
+        "name": "Vintage Diamond Bangle",
+        "product_image" : "https://th.bing.com/th/id/OIP.ggGKPm3P2Sn2lTC1QA1bpAHaFj?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "An antique-inspired 14K yellow gold bangle with milgrain detailing and diamond accents.",
+        "long_description": "This vintage-style bangle features 1.2 carats of old European-cut diamonds (I color, SI2 clarity) set in ornate 14K yellow gold with hand-engraved milgrain borders. The hinged design has a decorative clasp resembling antique jewelry. The 2.3\" inner diameter fits most wrists comfortably. Each diamond has the characteristic warmth and faceting of true vintage stones. Perfect for those who love heirloom-quality pieces with modern durability.",
+        "metal": "diamond",
+        "movement": "bangle",
+        "size": "2.3\" inner diameter",
+        "price": 5299.99,
+        "quantity_left": 5,
+        "sold_quantity": 15,
+        "added_date": "2023-10-05",
+        "reviews": [
+            {
+                "reviewer_name": "Olivia Martin",
+                "date": "2023-11-18",
+                "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+                "comment": "The craftsmanship is incredible - looks like a museum piece but wears beautifully."
+            },
+            {
+                "reviewer_name": "Robert Kim",
+                "date": "2023-12-10",
+                "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+                "comment": "Bought this for my mother who loves vintage jewelry. She says it's her new favorite."
+            }
+        ]
+    },
+    {
+        "id": "DIA-BANG-004",
+        "name": "Diamond and Gold Alternating Bangle",
+        "product_image" : "https://th.bing.com/th/id/OIP.O-84B2YkerjdguNo6nV8YgHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A bold 18K white and yellow gold bangle with alternating diamond and gold segments.",
+        "long_description": "This statement bangle alternates between polished 18K yellow gold segments and 18K white gold sections set with 1.5 carats of round brilliant diamonds (G-H color, VS2 clarity). The hinged design measures 2.6\" in diameter with a secure clasp. The contrast between metals creates a striking modern look, while the diamond sections add brilliant sparkle. Substantial without being heavy (total weight 25g). Perfect for making a sophisticated statement at special events.",
+        "metal": "diamond",
+        "movement": "bangle",
+        "size": "2.6\" diameter",
+        "price": 7299.99,
+        "quantity_left": 6,
+        "sold_quantity": 12,
+        "added_date": "2024-01-18",
+        "reviews": [
+            {
+                "reviewer_name": "Ava Thompson",
+                "date": "2024-02-25",
+                "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+                "comment": "The mixed metals are so chic! I get compliments every time I wear this."
+            },
+            {
+                "reviewer_name": "Daniel Lee",
+                "date": "2024-03-15",
+                "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+                "comment": "Impressive quality. The weight feels luxurious without being uncomfortable."
+            }
+        ]
+    },
+    {
+        "id": "DIA-BANG-005",
+        "name": "Eternity Diamond Bangle",
+        "product_image" : "https://th.bing.com/th/id/OIP.03PVgjUGOYhu1FvYZsWcFgHaHa?r=0&rs=1&pid=ImgDetMain",
+        "short_description": "A full eternity 18K platinum bangle with diamonds encircling the entire band.",
+        "long_description": "This luxurious bangle features 3 carats of round brilliant diamonds (F color, VS1 clarity) channel-set in an 18K platinum band that encircles the wrist completely. The diamonds are set 360 degrees for uninterrupted sparkle. Available in three sizes (small: 6.5\", medium: 7\", large: 7.5\"). The substantial weight (30g) gives it a premium feel, while the smooth interior ensures comfort. A true investment piece for those who appreciate uncompromising quality and maximum brilliance.",
+        "metal": "diamond",
+        "movement": "bangle",
+        "size": "S (6.5\"), M (7\"), L (7.5\")",
+        "price": 12999.99,
+        "quantity_left": 4,
+        "sold_quantity": 8,
+        "added_date": "2024-04-01",
+        "reviews": [
+            {
+                "reviewer_name": "Sophie Williams",
+                "date": "2024-05-10",
+                "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+                "comment": "The most spectacular jewelry piece I own. The diamonds are flawless."
+            },
+            {
+                "reviewer_name": "James Carter",
+                "date": "2024-05-28",
+                "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+                "comment": "Purchased for my wife's 50th birthday. She says it's the most beautiful gift she's ever received."
+            }
+        ]
+    }
+  ]
