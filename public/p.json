@@ -1291,4 +1291,147 @@
     }
   ]
 }
-    
+   {
+  "products": [
+    {
+      "id": "PRL-BANG-001",
+      "name": "Classic Pearl Hinged Bangle",
+      "short_description": "Timeless 14K white gold bangle featuring a 7mm Akoya pearl centerpiece.",
+      "long_description": "This elegant hinged bangle showcases a luminous 7mm AAA quality Akoya pearl from Japan, set in a secure four-prong 14K white gold mounting at the center. The 2.4-inch inner diameter fits most wrists comfortably, with a 5mm wide band polished to a mirror finish. The hidden hinge and clasp ensure smooth wear. Each pearl is hand-selected for perfect roundness and rosé overtone. A versatile piece that transitions from office to evening. Includes pearl care instructions.",
+      "metal": "white pearl",
+      "movement": "bangle",
+      "size": "2.4-inch inner diameter, 5mm wide",
+      "price": 899.99,
+      "quantity_left": 15,
+      "sold_quantity": 62,
+      "added_date": "2023-03-15",
+      "product_image": "https://www.mikimoto.com/cdn/shop/files/akoya-pearl-hinged-bangle.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Emily Chen",
+          "date": "2023-04-20",
+          "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+          "comment": "The pearl is perfectly centered and so lustrous! My everyday favorite."
+        },
+        {
+          "reviewer_name": "Michael Brown",
+          "date": "2023-05-12",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought this for my wife's birthday. The hinge makes it easy to put on."
+        }
+      ]
+    },
+    {
+      "id": "PRL-BANG-002",
+      "name": "Baroque Pearl Cuff Bangle",
+      "short_description": "Artistic 14K yellow gold open cuff with three irregular baroque pearls.",
+      "long_description": "This bold cuff features three unique white baroque freshwater pearls (8-9mm) with dramatic ridges, set in organic-looking 14K yellow gold prongs. The 2.5-inch inner diameter with 0.75-inch opening allows for easy wear. Each pearl showcases intense iridescence and one-of-a-kind shapes. The 8mm wide band has a matte finish for contrast. Perfect for making an artistic statement. Pearls are secured with reinforced drill holes and epoxy for durability.",
+      "metal": "white pearl",
+      "movement": "bangle",
+      "size": "2.5-inch inner diameter, 8mm wide",
+      "price": 1199.99,
+      "quantity_left": 8,
+      "sold_quantity": 28,
+      "added_date": "2023-06-18",
+      "product_image": "https://www.pearlsofjoy.com/cdn/shop/files/baroque-pearl-cuff-bangle.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophia Rodriguez",
+          "date": "2023-07-25",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "Each pearl is like a tiny sculpture! Gets compliments everywhere I go."
+        },
+        {
+          "reviewer_name": "David Wilson",
+          "date": "2023-08-30",
+          "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+          "comment": "My artist wife adores this. The imperfections make it perfect."
+        }
+      ]
+    },
+    {
+      "id": "PRL-BANG-003",
+      "name": "South Sea Pearl Bangle",
+      "short_description": "Luxurious 18K white gold bangle with 10mm white South Sea pearl center.",
+      "long_description": "This exquisite bangle highlights a magnificent 10mm white South Sea pearl from Australia, known for its satiny luster and thick nacre. Set in an 18K white gold bezel at the center of a 6mm wide band. The 2.3-inch inner diameter features a hidden hinge and clasp for seamless wear. The pearl exhibits the characteristic soft glow of South Seas with excellent surface quality. A true investment piece that makes a sophisticated statement at special events.",
+      "metal": "white pearl",
+      "movement": "bangle",
+      "size": "2.3-inch inner diameter, 6mm wide",
+      "price": 2999.99,
+      "quantity_left": 5,
+      "sold_quantity": 18,
+      "added_date": "2023-09-05",
+      "product_image": "https://www.australianpearls.com/cdn/shop/files/south-sea-pearl-bangle.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Olivia Martin",
+          "date": "2023-10-12",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "The pearl looks like it's glowing from within! Worth every penny."
+        },
+        {
+          "reviewer_name": "Robert Kim",
+          "date": "2023-11-18",
+          "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+          "comment": "Purchased for our 30th anniversary. The craftsmanship is impeccable."
+        }
+      ]
+    },
+    {
+      "id": "PRL-BANG-004",
+      "name": "Pearl & Diamond Eternity Bangle",
+      "short_description": "14K rose gold bangle with alternating pearls and diamonds encircling the band.",
+      "long_description": "This stunning eternity bangle alternates between 4mm white freshwater pearls and round brilliant diamonds (0.05ct each, G-H color, VS clarity) completely encircling a 14K rose gold band. The 2.5-inch inner diameter features a hidden clasp for continuous sparkle. Each pearl is bezel-set for protection, while the diamonds are prong-set. The 4mm width offers subtle elegance. Perfect for stacking or wearing alone as a statement piece. Includes authenticity certificates.",
+      "metal": "white pearl",
+      "movement": "bangle",
+      "size": "2.5-inch inner diameter, 4mm wide",
+      "price": 2499.99,
+      "quantity_left": 6,
+      "sold_quantity": 22,
+      "added_date": "2023-12-10",
+      "product_image": "https://www.jamesallen.com/cdn/shop/files/pearl-diamond-eternity-bangle.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Ava Thompson",
+          "date": "2024-01-20",
+          "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+          "comment": "The rose gold makes both pearls and diamonds glow warmly. Obsessed!"
+        },
+        {
+          "reviewer_name": "Daniel Lee",
+          "date": "2024-02-15",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought for my daughter's graduation. She says it's her most treasured piece."
+        }
+      ]
+    },
+    {
+      "id": "PRL-BANG-005",
+      "name": "Tahitian Pearl Open Bangle",
+      "short_description": "Modern 14K white gold open bangle with two white Tahitian pearls.",
+      "long_description": "This contemporary bangle features two rare white Tahitian pearls (8mm) with silver overtones, set in minimalist 14K white gold prongs on a 5mm wide open cuff. The 2.6-inch inner diameter allows for easy wear, while the pearls' movement creates dynamic light play. Each pearl exhibits the characteristic Tahitian luster with subtle color variations. The lightweight design (8 grams) ensures all-day comfort. Perfect for those who love modern pearl jewelry with edge.",
+      "metal": "white pearl",
+      "movement": "bangle",
+      "size": "2.6-inch inner diameter, 5mm wide",
+      "price": 1799.99,
+      "quantity_left": 10,
+      "sold_quantity": 35,
+      "added_date": "2024-03-01",
+      "product_image": "https://www.tahitipearlmarket.com/cdn/shop/files/tahitian-pearl-open-bangle.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophie Williams",
+          "date": "2024-04-10",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "The pearls change color in different lights - absolutely mesmerizing!"
+        },
+        {
+          "reviewer_name": "James Carter",
+          "date": "2024-05-12",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "The open design is so comfortable. My wife wears it daily."
+        }
+      ]
+    }
+  ]
+} 
