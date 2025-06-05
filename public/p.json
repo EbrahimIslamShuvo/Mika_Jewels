@@ -427,4 +427,868 @@
     }
   ]
 }
+{
+  "products": [
+    {
+      "id": "GLD-BRAC-001",
+      "name": "Classic 14K Yellow Gold Cable Chain Bracelet",
+      "short_description": "Timeless 14K yellow gold cable chain bracelet with lobster clasp closure.",
+      "long_description": "This elegant cable chain bracelet features interlocking oval links in lustrous 14K yellow gold. The 7-inch length with 1-inch extender ensures a perfect fit for most wrists, while the 2.5mm width offers subtle presence. The secure lobster clasp provides durability for daily wear. Weighing 4 grams, it's lightweight yet substantial. Perfect for layering or wearing solo. Comes with a polishing cloth to maintain its shine.",
+      "metal": "gold",
+      "movement": "bracelet",
+      "size": "7-8 inches long, 2.5mm wide",
+      "price": 499.99,
+      "quantity_left": 25,
+      "sold_quantity": 110,
+      "added_date": "2023-02-10",
+      "product_image": "https://www.jamesallen.com/cdn/shop/files/14k-yellow-gold-cable-chain-bracelet.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Emily Chen",
+          "date": "2023-03-15",
+          "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+          "comment": "My everyday staple! Never takes it off - perfect weight and shine."
+        },
+        {
+          "reviewer_name": "Michael Brown",
+          "date": "2023-04-22",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought this for my wife's anniversary. The craftsmanship is excellent."
+        }
+      ]
+    },
+    {
+      "id": "GLD-BRAC-002",
+      "name": "18K Rose Gold Figaro Chain Bracelet",
+      "short_description": "Stylish 18K rose gold Figaro chain bracelet with toggle clasp.",
+      "long_description": "This fashionable Figaro chain bracelet alternates between three small circular links and one elongated oval link in warm 18K rose gold. The 6.5-inch length with 1.5-inch extender provides adjustability, while the 4mm width makes a statement. The decorative toggle clasp adds visual interest. Weighing 6 grams, it has a substantial feel without being heavy. Ideal for stacking or making a solo statement.",
+      "metal": "gold",
+      "movement": "bracelet",
+      "size": "6.5-8 inches long, 4mm wide",
+      "price": 699.99,
+      "quantity_left": 18,
+      "sold_quantity": 65,
+      "added_date": "2023-05-18",
+      "product_image": "https://www.kay.com/cdn/shop/files/18k-rose-gold-figaro-chain-bracelet.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophia Rodriguez",
+          "date": "2023-06-25",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "The rose gold color is stunning! Toggle clasp is both pretty and secure."
+        },
+        {
+          "reviewer_name": "David Wilson",
+          "date": "2023-07-12",
+          "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+          "comment": "Great gift for my daughter. She wears it every day."
+        }
+      ]
+    },
+    {
+      "id": "GLD-BRAC-003",
+      "name": "14K White Gold Rope Chain Bracelet",
+      "short_description": "Luxurious 14K white gold rope chain bracelet with lobster clasp.",
+      "long_description": "This elegant rope chain bracelet features twisted links that create a rope-like texture in polished 14K white gold. The 7-inch length with 1-inch extender fits most wrists comfortably, while the 3mm width offers presence without bulk. The secure lobster clasp ensures safety. Weighing 5 grams, it's substantial enough to feel luxurious but light for daily wear. Perfect for pairing with watches or other bracelets.",
+      "metal": "gold",
+      "movement": "bracelet",
+      "size": "7-8 inches long, 3mm wide",
+      "price": 599.99,
+      "quantity_left": 20,
+      "sold_quantity": 80,
+      "added_date": "2023-08-05",
+      "product_image": "https://www.bluenile.com/cdn/shop/files/14k-white-gold-rope-chain-bracelet.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Olivia Martin",
+          "date": "2023-09-18",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "The texture catches light beautifully! My favorite bracelet for formal events."
+        },
+        {
+          "reviewer_name": "Robert Kim",
+          "date": "2023-10-05",
+          "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+          "comment": "Excellent quality. Looks much more expensive than it is."
+        }
+      ]
+    },
+    {
+      "id": "GLD-BRAC-004",
+      "name": "14K Yellow Gold Bangle Bracelet",
+      "short_description": "Solid 14K yellow gold bangle bracelet with hinge closure.",
+      "long_description": "This substantial bangle bracelet is crafted from solid 14K yellow gold with a smooth, high-polish finish. The hinged design with safety clasp makes it easy to put on and take off. The 2.5-inch inner diameter fits most wrists comfortably, while the 6mm width gives it presence. Weighing 15 grams, it has a satisfying heft that feels luxurious. A timeless piece that can be worn alone or stacked.",
+      "metal": "gold",
+      "movement": "bracelet",
+      "size": "2.5-inch inner diameter, 6mm wide",
+      "price": 899.99,
+      "quantity_left": 12,
+      "sold_quantity": 45,
+      "added_date": "2023-11-12",
+      "product_image": "https://www.zales.com/cdn/shop/files/14k-yellow-gold-bangle-bracelet.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Ava Thompson",
+          "date": "2023-12-20",
+          "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+          "comment": "The weight is perfect - substantial but not uncomfortable. Never takes it off!"
+        },
+        {
+          "reviewer_name": "Daniel Lee",
+          "date": "2024-01-15",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought this for my mother. The hinge makes it easy for her to put on herself."
+        }
+      ]
+    },
+    {
+      "id": "GLD-BRAC-005",
+      "name": "18K White Gold Curb Link Bracelet",
+      "short_description": "Modern 18K white gold curb link bracelet with box clasp.",
+      "long_description": "This contemporary bracelet features flat, interlocking curb links in polished 18K white gold. The 7-inch length with 1-inch extender provides adjustability, while the 5mm width makes a bold statement. The secure box clasp blends seamlessly into the design. Weighing 12 grams, it has a luxurious weight that feels premium. Perfect for those who love geometric, modern jewelry designs.",
+      "metal": "gold",
+      "movement": "bracelet",
+      "size": "7-8 inches long, 5mm wide",
+      "price": 1099.99,
+      "quantity_left": 8,
+      "sold_quantity": 25,
+      "added_date": "2024-02-18",
+      "product_image": "https://www.jared.com/cdn/shop/files/18k-white-gold-curb-link-bracelet.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophie Williams",
+          "date": "2024-03-25",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "The links lay perfectly flat - so comfortable and sleek looking."
+        },
+        {
+          "reviewer_name": "James Carter",
+          "date": "2024-04-10",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "Worth every penny. The white gold has an amazing luster."
+        }
+      ]
+    }
+  ]
+}
+{
+  "products": [
+    {
+      "id": "GLD-BANG-001",
+      "name": "Classic 14K Yellow Gold Hinged Bangle",
+      "short_description": "Timeless 14K yellow gold bangle with secure hinge and clasp design.",
+      "long_description": "This classic hinged bangle features a smooth, high-polish finish in rich 14K yellow gold. The 2.4-inch inner diameter fits most wrists comfortably, while the 6mm width provides presence without being bulky. The hidden hinge and secure clasp ensure easy wear and safety. Weighing 12 grams, it has a substantial feel that's still comfortable for daily wear. A versatile piece that works alone or stacked with other bangles. Comes with a polishing cloth.",
+      "metal": "gold",
+      "movement": "bangle",
+      "size": "2.4-inch inner diameter, 6mm wide",
+      "price": 799.99,
+      "quantity_left": 15,
+      "sold_quantity": 85,
+      "added_date": "2023-02-15",
+      "product_image": "https://www.jamesallen.com/cdn/shop/files/14k-yellow-gold-hinged-bangle.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sarah Johnson",
+          "date": "2023-03-20",
+          "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+          "comment": "The perfect everyday bangle! Never takes it off - goes with everything."
+        },
+        {
+          "reviewer_name": "Michael Chen",
+          "date": "2023-04-12",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought this for my wife's birthday. The hinge makes it so easy to put on."
+        }
+      ]
+    },
+    {
+      "id": "GLD-BANG-002",
+      "name": "18K Rose Gold Open Cuff Bangle",
+      "short_description": "Modern 18K rose gold open cuff bangle with hammered texture.",
+      "long_description": "This contemporary open cuff bangle features a hand-hammered texture in warm 18K rose gold. The 2.5-inch inner diameter with 0.5-inch opening allows for easy wear, while the 8mm width makes a stylish statement. The flexible design maintains its shape while adapting to your wrist. Weighing 10 grams, it's lightweight yet substantial. Perfect for adding texture to your jewelry stack. Comes in a velvet gift box.",
+      "metal": "gold",
+      "movement": "bangle",
+      "size": "2.5-inch inner diameter, 8mm wide",
+      "price": 899.99,
+      "quantity_left": 12,
+      "sold_quantity": 45,
+      "added_date": "2023-05-10",
+      "product_image": "https://www.kay.com/cdn/shop/files/18k-rose-gold-open-cuff-bangle.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Emily Wilson",
+          "date": "2023-06-18",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "Love the hammered texture - catches the light beautifully!"
+        },
+        {
+          "reviewer_name": "David Kim",
+          "date": "2023-07-05",
+          "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+          "comment": "The rose gold color is stunning. My girlfriend wears it every day."
+        }
+      ]
+    },
+    {
+      "id": "GLD-BANG-003",
+      "name": "14K White Gold Diamond-Cut Bangle",
+      "short_description": "Elegant 14K white gold bangle with diamond-cut edges for extra sparkle.",
+      "long_description": "This sophisticated bangle features a sleek 14K white gold band with diamond-cut edges that create brilliant light reflection. The 2.3-inch inner diameter provides a comfortable fit, while the 5mm width offers understated elegance. The hinged design with safety clasp ensures secure wear. Weighing 15 grams, it has a luxurious weight. Perfect for formal occasions or adding polish to everyday outfits. Hypoallergenic and tarnish-resistant.",
+      "metal": "gold",
+      "movement": "bangle",
+      "size": "2.3-inch inner diameter, 5mm wide",
+      "price": 1099.99,
+      "quantity_left": 8,
+      "sold_quantity": 32,
+      "added_date": "2023-08-22",
+      "product_image": "https://www.bluenile.com/cdn/shop/files/14k-white-gold-diamond-cut-bangle.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Olivia Rodriguez",
+          "date": "2023-09-15",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "The diamond-cut edges make it sparkle like crazy! So elegant."
+        },
+        {
+          "reviewer_name": "Robert Martin",
+          "date": "2023-10-08",
+          "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+          "comment": "Worth every penny. The craftsmanship is impeccable."
+        }
+      ]
+    },
+    {
+      "id": "GLD-BANG-004",
+      "name": "14K Yellow Gold Twisted Bangle",
+      "short_description": "Artistic 14K yellow gold bangle with twisted rope design.",
+      "long_description": "This eye-catching bangle features two 14K yellow gold strands twisted together in a rope-like design. The 2.6-inch inner diameter fits most wrists comfortably, while the 10mm width makes a bold statement. The hinged design with clasp ensures easy wear. Weighing 18 grams, it has a substantial, luxurious feel. Perfect for adding texture and interest to your jewelry collection. A unique piece that stands out in any stack.",
+      "metal": "gold",
+      "movement": "bangle",
+      "size": "2.6-inch inner diameter, 10mm wide",
+      "price": 1299.99,
+      "quantity_left": 6,
+      "sold_quantity": 18,
+      "added_date": "2023-11-05",
+      "product_image": "https://www.zales.com/cdn/shop/files/14k-yellow-gold-twisted-bangle.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Ava Thompson",
+          "date": "2023-12-12",
+          "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+          "comment": "The twist design is gorgeous - so much dimension and movement!"
+        },
+        {
+          "reviewer_name": "Daniel Lee",
+          "date": "2024-01-20",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought this for my wife's anniversary. She says it's her favorite piece."
+        }
+      ]
+    },
+    {
+      "id": "GLD-BANG-005",
+      "name": "18K White Gold Slim Stackable Bangle Set",
+      "short_description": "Set of three thin 18K white gold bangles for elegant stacking.",
+      "long_description": "This elegant set includes three slim 18K white gold bangles (1mm, 2mm, and 3mm wide) designed for effortless stacking. The 2.5-inch inner diameter fits most wrists comfortably. Each bangle has a smooth, polished finish that reflects light beautifully. The set weighs a total of 10 grams, making it lightweight for all-day wear. Perfect for creating a customized layered look or giving as a gift. Comes in a luxurious gift box.",
+      "metal": "gold",
+      "movement": "bangle",
+      "size": "2.5-inch inner diameter (set of 3)",
+      "price": 1499.99,
+      "quantity_left": 5,
+      "sold_quantity": 25,
+      "added_date": "2024-02-18",
+      "product_image": "https://www.jared.com/cdn/shop/files/18k-white-gold-stackable-bangle-set.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophie Williams",
+          "date": "2024-03-25",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "Love mixing and matching these! The different widths create perfect dimension."
+        },
+        {
+          "reviewer_name": "James Carter",
+          "date": "2024-04-10",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "Excellent quality. The white gold has a beautiful bright shine."
+        }
+      ]
+    }
+  ]
+}
+{
+  "products": [
+    {
+      "id": "PRL-NECK-001",
+      "name": "Classic Akoya Pearl Strand Necklace",
+      "short_description": "Timeless 18-inch necklace featuring 6-7mm AAA quality Akoya pearls with 14K gold clasp.",
+      "long_description": "This exquisite necklace showcases 45 perfectly matched AAA quality Akoya pearls (6-7mm) from Japan, renowned for their brilliant luster and rosé overtones. The pearls are hand-knotted on silk thread with 14K yellow gold spacers and a secure lobster clasp. The 18-inch length sits elegantly at the collarbone. Each pearl is carefully selected for its round shape, clean surface, and mirror-like shine. Includes a velvet presentation box and pearl care kit.",
+      "metal": "white pearl",
+      "movement": "necklace",
+      "size": "18 inches, 6-7mm pearls",
+      "price": 899.99,
+      "quantity_left": 12,
+      "sold_quantity": 68,
+      "added_date": "2023-03-15",
+      "product_image": "https://www.pearlparadise.com/cdn/shop/files/akoya-pearl-strand-necklace.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Elizabeth Taylor",
+          "date": "2023-04-20",
+          "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+          "comment": "The luster is incredible! Looks far more expensive than it is."
+        },
+        {
+          "reviewer_name": "William Grant",
+          "date": "2023-05-12",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought for my wife's 50th birthday. The pearls have perfect uniformity."
+        }
+      ]
+    },
+    {
+      "id": "PRL-NECK-002",
+      "name": "Freshwater Pearl Pendant Necklace",
+      "short_description": "Dainty 16-inch chain with a 8mm white freshwater pearl solitaire pendant in 14K rose gold setting.",
+      "long_description": "This delicate necklace features a single 8mm white freshwater pearl with exceptional luster, suspended from a 16-inch 14K rose gold chain. The pearl is set in a four-prong basket with a petite diamond accent (0.02ct) at the base. The 1.2mm thick chain has a spring ring clasp. The pearl exhibits clean surface quality with subtle iridescence. Perfect for everyday wear or as a meaningful gift. Comes with a 30-day pearl guarantee.",
+      "metal": "white pearl",
+      "movement": "necklace",
+      "size": "16 inches, 8mm pearl",
+      "price": 349.99,
+      "quantity_left": 25,
+      "sold_quantity": 95,
+      "added_date": "2023-06-08",
+      "product_image": "https://www.mikimoto.com/cdn/shop/files/freshwater-pearl-pendant-necklace.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophia Chen",
+          "date": "2023-07-18",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "So feminine and elegant! The rose gold makes the pearl glow."
+        },
+        {
+          "reviewer_name": "Michael Johnson",
+          "date": "2023-08-05",
+          "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+          "comment": "Perfect graduation gift. My daughter wears it every day."
+        }
+      ]
+    },
+    {
+      "id": "PRL-NECK-003",
+      "name": "Tahitian Pearl & Diamond Station Necklace",
+      "short_description": "18-inch 14K white gold necklace with alternating white Tahitian pearls (7-8mm) and round diamonds.",
+      "long_description": "This luxurious station necklace alternates between white Tahitian pearls (7-8mm) and round brilliant diamonds (0.10ct each) set in 14K white gold. The 18-inch length features 9 pearls and 9 diamonds spaced evenly. Each pearl exhibits the characteristic Tahitian overtone with silver hues, while the diamonds are G-H color, VS clarity. The lobster clasp ensures security. A stunning blend of pearls and diamonds for special occasions. Includes authenticity certificates for both pearls and diamonds.",
+      "metal": "white pearl",
+      "movement": "necklace",
+      "size": "18 inches, 7-8mm pearls",
+      "price": 2499.99,
+      "quantity_left": 5,
+      "sold_quantity": 22,
+      "added_date": "2023-09-01",
+      "product_image": "https://www.tahitipearlmarket.com/cdn/shop/files/tahitian-pearl-diamond-necklace.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Olivia Martin",
+          "date": "2023-10-15",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "The diamond/pearl combination is breathtaking! Gets compliments constantly."
+        },
+        {
+          "reviewer_name": "Robert Kim",
+          "date": "2023-11-22",
+          "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+          "comment": "Worth the investment. The pearls have incredible depth of color."
+        }
+      ]
+    },
+    {
+      "id": "PRL-NECK-004",
+      "name": "Baroque Freshwater Pearl Choker",
+      "short_description": "Unique 15-inch choker featuring irregular baroque white freshwater pearls (8-9mm) on gold-filled chain.",
+      "long_description": "This artistic choker showcases 25 irregular baroque white freshwater pearls (8-9mm) strung on a durable gold-filled chain. Each pearl displays unique shapes with spectacular luster and iridescence. The 15-inch length sits snugly at the neck, with a 2-inch extender for adjustability. The pearls are separated by small gold beads to prevent rubbing. Perfect for those who appreciate organic, one-of-a-kind jewelry. The toggle clasp is both decorative and secure. Handcrafted by artisan jewelers.",
+      "metal": "white pearl",
+      "movement": "necklace",
+      "size": "15-17 inches, 8-9mm pearls",
+      "price": 499.99,
+      "quantity_left": 18,
+      "sold_quantity": 42,
+      "added_date": "2024-01-10",
+      "product_image": "https://www.pearlsofjoy.com/cdn/shop/files/baroque-pearl-choker-necklace.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Ava Thompson",
+          "date": "2024-02-18",
+          "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+          "comment": "Each pearl is like a tiny sculpture! So much character."
+        },
+        {
+          "reviewer_name": "Daniel Lee",
+          "date": "2024-03-25",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "My artsy daughter adores this. The irregular shapes make it special."
+        }
+      ]
+    },
+    {
+      "id": "PRL-NECK-005",
+      "name": "South Sea Pearl Rope Necklace",
+      "short_description": "Luxurious 32-inch rope necklace with 9-10mm white South Sea pearls and 14K white gold clasp.",
+      "long_description": "This extravagant rope necklace features 65 luminous white South Sea pearls (9-10mm) from Australia, known for their satiny luster and thick nacre. The pearls are hand-knotted on silk thread with 14K white gold spacers every 5 pearls. The 32-inch length can be worn long, doubled, or even tripled. Each pearl exhibits the characteristic soft glow of South Seas with excellent surface quality. The secure fishhook clasp is easy to use. Includes a mahogany gift box and pearl care guide.",
+      "metal": "white pearl",
+      "movement": "necklace",
+      "size": "32 inches, 9-10mm pearls",
+      "price": 3999.99,
+      "quantity_left": 3,
+      "sold_quantity": 12,
+      "added_date": "2024-04-05",
+      "product_image": "https://www.australianpearls.com/cdn/shop/files/south-sea-pearl-rope-necklace.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophie Williams",
+          "date": "2024-05-12",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "The pearls feel like silk against the skin. A true heirloom piece."
+        },
+        {
+          "reviewer_name": "James Carter",
+          "date": "2024-06-01",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "Purchased for our 25th anniversary. The quality is exceptional."
+        }
+      ]
+    }
+  ]
+}
+{
+  "products": [
+    {
+      "id": "PRL-RING-001",
+      "name": "Solitaire Freshwater Pearl Ring",
+      "short_description": "Elegant 14K white gold ring featuring a 8mm white freshwater pearl in a classic four-prong setting.",
+      "long_description": "This timeless ring showcases a perfectly round 8mm white freshwater pearl with brilliant luster, set in a secure four-prong 14K white gold mounting. The pearl exhibits clean surface quality with subtle pink overtones. The band tapers from 2mm at the base to 1.5mm at the shoulders for comfort. Available in sizes 4-9. The simple design highlights the pearl's natural beauty, making it perfect for everyday wear or special occasions. Includes a pearl care booklet.",
+      "metal": "white pearl",
+      "movement": "ring",
+      "size": "4-9 (resizable)",
+      "price": 449.99,
+      "quantity_left": 18,
+      "sold_quantity": 72,
+      "added_date": "2023-03-10",
+      "product_image": "https://www.pearlparadise.com/cdn/shop/files/freshwater-pearl-solitaire-ring.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Emily Chen",
+          "date": "2023-04-15",
+          "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+          "comment": "The pearl is so luminous! Looks much more expensive than it is."
+        },
+        {
+          "reviewer_name": "Michael Brown",
+          "date": "2023-05-22",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought this for my wife's birthday. She loves how delicate it looks."
+        }
+      ]
+    },
+    {
+      "id": "PRL-RING-002",
+      "name": "Pearl & Diamond Halo Ring",
+      "short_description": "14K rose gold ring with a 7mm Akoya pearl surrounded by a halo of 0.25ct diamonds.",
+      "long_description": "This exquisite ring features a 7mm AAA quality Akoya pearl with mirror-like luster, encircled by a halo of 12 round brilliant diamonds (total 0.25ct, G-H color, VS clarity) in 14K rose gold. The band is 2mm wide with milgrain detailing for vintage charm. The pearl is securely set with a reinforced post to prevent rotation. Perfect as an unconventional engagement ring or right-hand statement piece. Comes with both pearl and diamond certification.",
+      "metal": "white pearl",
+      "movement": "ring",
+      "size": "4-8 (resizable)",
+      "price": 1299.99,
+      "quantity_left": 8,
+      "sold_quantity": 35,
+      "added_date": "2023-06-18",
+      "product_image": "https://www.mikimoto.com/cdn/shop/files/pearl-diamond-halo-ring.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophia Rodriguez",
+          "date": "2023-07-25",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "The diamond halo makes the pearl sparkle even more! Unique and beautiful."
+        },
+        {
+          "reviewer_name": "David Wilson",
+          "date": "2023-08-30",
+          "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+          "comment": "Proposed with this ring - she said yes! The rose gold is stunning."
+        }
+      ]
+    },
+    {
+      "id": "PRL-RING-003",
+      "name": "Baroque Pearl Statement Ring",
+      "short_description": "Artistic 14K yellow gold ring featuring a 10mm irregular baroque pearl with organic texture.",
+      "long_description": "This bold ring showcases a unique 10mm white baroque freshwater pearl with dramatic ridges and intense iridescence, set in a handcrafted 14K yellow gold bezel. The asymmetrical design allows the pearl's natural shape to shine. The band is 3mm wide for stability. Each pearl is one-of-a-kind, with variations in shape and surface texture that add character. Perfect for jewelry lovers who appreciate organic, unconventional designs. Includes an artisan certificate.",
+      "metal": "white pearl",
+      "movement": "ring",
+      "size": "5-9 (resizable)",
+      "price": 599.99,
+      "quantity_left": 12,
+      "sold_quantity": 28,
+      "added_date": "2023-09-05",
+      "product_image": "https://www.pearlsofjoy.com/cdn/shop/files/baroque-pearl-statement-ring.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Olivia Martin",
+          "date": "2023-10-12",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "This pearl looks like a tiny moon! So much personality."
+        },
+        {
+          "reviewer_name": "Robert Kim",
+          "date": "2023-11-18",
+          "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+          "comment": "My artist wife adores this ring. The imperfections make it perfect."
+        }
+      ]
+    },
+    {
+      "id": "PRL-RING-004",
+      "name": "Tahitian Pearl Cocktail Ring",
+      "short_description": "18K white gold ring with a 12mm white Tahitian pearl and diamond accents.",
+      "long_description": "This dramatic cocktail ring features a rare white Tahitian pearl (12mm) with silver overtone, flanked by two tapered baguette diamonds (total 0.30ct) in an 18K white gold setting. The pearl exhibits the characteristic Tahitian luster with subtle color play. The shank is 4mm wide with milgrain engraving for vintage appeal. A showstopping piece for special occasions. The pearl is secured with a reinforced drill hole and epoxy for durability. Includes authenticity certificates.",
+      "metal": "white pearl",
+      "movement": "ring",
+      "size": "5-8 (resizable)",
+      "price": 2499.99,
+      "quantity_left": 3,
+      "sold_quantity": 15,
+      "added_date": "2024-01-15",
+      "product_image": "https://www.tahitipearlmarket.com/cdn/shop/files/tahitian-pearl-cocktail-ring.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Ava Thompson",
+          "date": "2024-02-20",
+          "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+          "comment": "The pearl changes color in different lights - absolutely mesmerizing!"
+        },
+        {
+          "reviewer_name": "Daniel Lee",
+          "date": "2024-03-15",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Worth every penny. The diamond accents elevate it to museum quality."
+        }
+      ]
+    },
+    {
+      "id": "PRL-RING-005",
+      "name": "South Sea Pearl Pinky Ring",
+      "short_description": "14K rose gold pinky ring with a 6mm white South Sea pearl for understated luxury.",
+      "long_description": "This refined pinky ring features a 6mm white South Sea pearl from Australia, known for its satiny luster and thick nacre, set in a minimalist 14K rose gold bezel. The band is 1.5mm wide for delicate proportions. Perfect for those who prefer subtle, sophisticated jewelry. The pearl is secured with a proprietary setting that protects its delicate surface. Available in smaller sizes (3-6) specifically for pinky wear. Comes in a velvet gift box.",
+      "metal": "white pearl",
+      "movement": "ring",
+      "size": "3-6 (pinky sizes)",
+      "price": 799.99,
+      "quantity_left": 15,
+      "sold_quantity": 40,
+      "added_date": "2024-04-01",
+      "product_image": "https://www.australianpearls.com/cdn/shop/files/south-sea-pearl-pinky-ring.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophie Williams",
+          "date": "2024-05-10",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "So elegant! The small size makes it perfect for stacking."
+        },
+        {
+          "reviewer_name": "James Carter",
+          "date": "2024-05-28",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "Bought this for my mother. The South Sea pearl has a gorgeous glow."
+        }
+      ]
+    }
+  ]
+}
+{
+  "products": [
+    {
+      "id": "PRL-EAR-001",
+      "name": "Classic Pearl Stud Earrings",
+      "short_description": "Timeless 6mm Akoya pearl studs in 14K white gold settings for everyday elegance.",
+      "long_description": "These iconic stud earrings feature perfectly matched 6mm AAA quality Akoya pearls from Japan, renowned for their mirror-like luster and rosé overtones. Set in secure four-prong 14K white gold mounts with friction-back posts for comfort. Each pearl is hand-selected for roundness and surface perfection. The hypoallergenic posts are ideal for sensitive ears. Includes a velvet pouch and pearl care guide. A jewelry box essential that transitions seamlessly from day to night.",
+      "metal": "white pearl",
+      "movement": "earrings",
+      "size": "6mm pearls",
+      "price": 349.99,
+      "quantity_left": 25,
+      "sold_quantity": 180,
+      "added_date": "2023-02-15",
+      "product_image": "https://www.mikimoto.com/cdn/shop/files/akoya-pearl-stud-earrings.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Emily Chen",
+          "date": "2023-03-20",
+          "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+          "comment": "My everyday staples! The luster is incredible - people ask if they're real diamonds."
+        },
+        {
+          "reviewer_name": "Michael Brown",
+          "date": "2023-04-12",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought these for my wife. She wears them constantly - perfect size for daily wear."
+        }
+      ]
+    },
+    {
+      "id": "PRL-EAR-002",
+      "name": "Pearl Drop Earrings",
+      "short_description": "Elegant 8mm freshwater pearl drops on 14K rose gold French hooks.",
+      "long_description": "These sophisticated drop earrings feature two 8mm white freshwater pearls with excellent luster, suspended from delicate 14K rose gold French wires. The pearls sway gently with movement, catching light beautifully. Each pearl is matched for size and color tone within 0.1mm variance. The fishhook closures are secure yet easy to use. Total drop length is 1.2 inches. Perfect for adding subtle motion to professional or evening looks. Comes with anti-tarnish storage pouch.",
+      "metal": "white pearl",
+      "movement": "earrings",
+      "size": "8mm pearls, 1.2-inch total length",
+      "price": 499.99,
+      "quantity_left": 18,
+      "sold_quantity": 95,
+      "added_date": "2023-05-10",
+      "product_image": "https://www.pearlparadise.com/cdn/shop/files/freshwater-pearl-drop-earrings.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophia Rodriguez",
+          "date": "2023-06-18",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "The movement is so graceful! Rose gold makes the pearls glow warmly."
+        },
+        {
+          "reviewer_name": "David Wilson",
+          "date": "2023-07-05",
+          "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+          "comment": "Gave these to my daughter for graduation. She says they're her most complimented earrings."
+        }
+      ]
+    },
+    {
+      "id": "PRL-EAR-003",
+      "name": "Pearl & Diamond Huggie Hoops",
+      "short_description": "Modern 14K white gold huggies with alternating pearls and diamonds.",
+      "long_description": "These contemporary huggie hoops alternate between three 4mm white freshwater pearls and four round brilliant diamonds (total 0.20ct, G-H color, VS clarity) in 14K white gold. The 10mm diameter sits snugly against the earlobe with a secure hinge closure. Each pearl is bezel-set for protection, while the diamonds are prong-set for maximum sparkle. Lightweight at 3 grams per pair. Perfect for adding subtle glamour to casual or formal outfits.",
+      "metal": "white pearl",
+      "movement": "earrings",
+      "size": "10mm diameter",
+      "price": 899.99,
+      "quantity_left": 12,
+      "sold_quantity": 45,
+      "added_date": "2023-08-22",
+      "product_image": "https://www.jamesallen.com/cdn/shop/files/pearl-diamond-huggie-hoops.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Olivia Martin",
+          "date": "2023-09-15",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "The perfect balance of pearls and diamonds! So comfortable for all-day wear."
+        },
+        {
+          "reviewer_name": "Robert Kim",
+          "date": "2023-10-08",
+          "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+          "comment": "My wife loves how these catch the light from every angle."
+        }
+      ]
+    },
+    {
+      "id": "PRL-EAR-004",
+      "name": "Baroque Pearl Ear Crawlers",
+      "short_description": "Artistic 14K yellow gold ear crawlers with irregular baroque pearls.",
+      "long_description": "These fashion-forward ear crawlers feature two unique white baroque freshwater pearls (7-8mm) with dramatic ridges and intense iridescence, set in 14K yellow gold minimalist mounts. The design hugs the earlobe vertically, with the larger pearl at the top cascading down. Each pearl is one-of-a-kind, showcasing natural imperfections that add organic beauty. The posts are threaded for security. A statement piece for those who love unconventional pearl jewelry.",
+      "metal": "white pearl",
+      "movement": "earrings",
+      "size": "7-8mm pearls, 0.8-inch length",
+      "price": 649.99,
+      "quantity_left": 15,
+      "sold_quantity": 32,
+      "added_date": "2023-11-05",
+      "product_image": "https://www.pearlsofjoy.com/cdn/shop/files/baroque-pearl-ear-crawlers.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Ava Thompson",
+          "date": "2023-12-12",
+          "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+          "comment": "Each pearl is like a tiny sculpture! Gets so many compliments."
+        },
+        {
+          "reviewer_name": "Daniel Lee",
+          "date": "2024-01-20",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought for my fashion-forward sister. She says they're her new favorite earrings."
+        }
+      ]
+    },
+    {
+      "id": "PRL-EAR-005",
+      "name": "South Sea Pearl Chandeliers",
+      "short_description": "Luxurious 18K white gold chandeliers with 9mm South Sea pearls and diamond accents.",
+      "long_description": "These exquisite chandelier earrings showcase two 9mm white South Sea pearls from Australia, known for their satiny luster and thick nacre. Each pearl is suspended from 18K white gold vines with petite diamond accents (total 0.15ct, G-H color, VS clarity). The total drop length is 1.8 inches, with secure lever-back closures. The pearls exhibit a soft, creamy glow that moves gracefully. A showstopping choice for black-tie events or weddings. Includes authenticity certificates.",
+      "metal": "white pearl",
+      "movement": "earrings",
+      "size": "9mm pearls, 1.8-inch length",
+      "price": 1999.99,
+      "quantity_left": 5,
+      "sold_quantity": 18,
+      "added_date": "2024-02-18",
+      "product_image": "https://www.australianpearls.com/cdn/shop/files/south-sea-pearl-chandeliers.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophie Williams",
+          "date": "2024-03-25",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "Wore these to my wedding - absolutely breathtaking! The pearls glow from within."
+        },
+        {
+          "reviewer_name": "James Carter",
+          "date": "2024-04-10",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "An investment piece. The craftsmanship is museum-quality."
+        }
+      ]
+    }
+  ]
+}
+{
+  "products": [
+    {
+      "id": "PRL-BRAC-001",
+      "name": "Classic Pearl Strand Bracelet",
+      "short_description": "Timeless 7-inch bracelet with 5-6mm Akoya pearls and 14K gold clasp.",
+      "long_description": "This elegant bracelet features 25 perfectly matched AAA quality Akoya pearls (5-6mm) from Japan, hand-knotted on silk thread with 14K white gold spacers every 5 pearls. The 7-inch length fits most wrists comfortably, with a 1-inch extender chain for adjustability. Each pearl exhibits mirror-like luster with rosé overtones. The secure lobster clasp ensures durability. A versatile piece that pairs equally well with watches or other bracelets. Includes a pearl care kit.",
+      "metal": "white pearl",
+      "movement": "bracelet",
+      "size": "7-8 inches, 5-6mm pearls",
+      "price": 599.99,
+      "quantity_left": 20,
+      "sold_quantity": 95,
+      "added_date": "2023-03-10",
+      "product_image": "https://www.mikimoto.com/cdn/shop/files/akoya-pearl-strand-bracelet.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sarah Johnson",
+          "date": "2023-04-15",
+          "image": "https://cdn3.photostockeditor.com/c/1405/face--human-human-image.jpg",
+          "comment": "The pearls are so uniform and lustrous! My most worn bracelet."
+        },
+        {
+          "reviewer_name": "Michael Chen",
+          "date": "2023-05-22",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought this for my wife's anniversary. The craftsmanship is exceptional."
+        }
+      ]
+    },
+    {
+      "id": "PRL-BRAC-002",
+      "name": "Pearl & Diamond Tennis Bracelet",
+      "short_description": "Luxurious 7-inch bracelet alternating 4mm pearls and 0.10ct diamonds in 14K white gold.",
+      "long_description": "This stunning tennis bracelet alternates between 4mm white freshwater pearls and round brilliant diamonds (0.10ct each, G-H color, VS clarity) set in 14K white gold. The 7-inch length features 15 pearls and 15 diamonds with a secure lobster clasp. Each pearl is bezel-set for protection, while the diamonds are prong-set for maximum sparkle. The perfect blend of classic pearls and modern diamonds for special occasions. Includes authenticity certificates for both materials.",
+      "metal": "white pearl",
+      "movement": "bracelet",
+      "size": "7 inches, 4mm pearls",
+      "price": 1899.99,
+      "quantity_left": 8,
+      "sold_quantity": 32,
+      "added_date": "2023-06-18",
+      "product_image": "https://www.jamesallen.com/cdn/shop/files/pearl-diamond-tennis-bracelet.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Emily Wilson",
+          "date": "2023-07-25",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "The diamond/pearl combination is breathtaking! Wore it to my wedding."
+        },
+        {
+          "reviewer_name": "David Kim",
+          "date": "2023-08-30",
+          "image": "https://th.bing.com/th/id/OIP.De4X3NryaaggJDCQxbYKvwHaLG?r=0&w=2001&h=3000&rs=1&pid=ImgDetMain",
+          "comment": "Worth every penny. The craftsmanship makes it look like a museum piece."
+        }
+      ]
+    },
+    {
+      "id": "PRL-BRAC-003",
+      "name": "Baroque Pearl Stretch Bracelet",
+      "short_description": "Unique stretch bracelet with 8-9mm irregular baroque pearls for organic elegance.",
+      "long_description": "This artistic bracelet features 12 irregular white baroque freshwater pearls (8-9mm) strung on durable elastic cord with gold-filled bead spacers. Each pearl showcases unique shapes with spectacular ridges and iridescence. The 7-inch unstretched length comfortably fits most wrists, stretching up to 8.5 inches for easy wear. Perfect for those who appreciate one-of-a-kind natural jewelry. The pearls are protected by knotting between each bead. Handcrafted by artisan jewelers.",
+      "metal": "white pearl",
+      "movement": "bracelet",
+      "size": "7-8.5 inches (stretch), 8-9mm pearls",
+      "price": 349.99,
+      "quantity_left": 25,
+      "sold_quantity": 68,
+      "added_date": "2023-09-05",
+      "product_image": "https://www.pearlsofjoy.com/cdn/shop/files/baroque-pearl-stretch-bracelet.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Olivia Rodriguez",
+          "date": "2023-10-12",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "Each pearl is like a tiny work of art! So comfortable to wear daily."
+        },
+        {
+          "reviewer_name": "Robert Martin",
+          "date": "2023-11-18",
+          "image": "https://th.bing.com/th/id/OIP.nOvdrNchK8ZricjUabkjowHaLH?r=0&w=1280&h=1920&rs=1&pid=ImgDetMain",
+          "comment": "My wife loves the organic look. The stretch makes it easy to put on."
+        }
+      ]
+    },
+    {
+      "id": "PRL-BRAC-004",
+      "name": "South Sea Pearl Bangle",
+      "short_description": "Luxurious 2.5-inch hinged bangle with 10mm white South Sea pearl centerpiece.",
+      "long_description": "This substantial bangle features a magnificent 10mm white South Sea pearl from Australia, known for its satiny luster and thick nacre, set in a 14K yellow gold bezel at the center. The 2.5-inch inner diameter fits most wrists comfortably, with a hidden hinge and secure clasp. The 6mm wide band is polished to a high shine. A true investment piece that makes a sophisticated statement. The pearl is secured with a reinforced drill hole and epoxy for durability.",
+      "metal": "white pearl",
+      "movement": "bracelet",
+      "size": "2.5-inch inner diameter, 10mm pearl",
+      "price": 2499.99,
+      "quantity_left": 5,
+      "sold_quantity": 15,
+      "added_date": "2023-12-10",
+      "product_image": "https://www.australianpearls.com/cdn/shop/files/south-sea-pearl-bangle.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Ava Thompson",
+          "date": "2024-01-20",
+          "image": "https://th.bing.com/th/id/OIP.Ot44qOPojC_F-wgBcMcAJAHaHa?r=0&w=538&h=538&rs=1&pid=ImgDetMain",
+          "comment": "The pearl looks like it's glowing from within! A forever piece."
+        },
+        {
+          "reviewer_name": "Daniel Lee",
+          "date": "2024-02-15",
+          "image": "https://th.bing.com/th/id/OIP.xGAXVKjGAk2ITkuZTlJbKgHaLH?r=0&rs=1&pid=ImgDetMain",
+          "comment": "Bought for our 25th anniversary. The weight feels substantial and luxurious."
+        }
+      ]
+    },
+    {
+      "id": "PRL-BRAC-005",
+      "name": "Pearl Charm Bracelet",
+      "short_description": "Playful 7-inch chain bracelet with three pearl charms in 14K rose gold.",
+      "long_description": "This charming bracelet features three white freshwater pearl charms (6mm, 7mm, and 8mm) dangling from a delicate 14K rose gold chain. The pearls are set in floral-inspired bezels with petite diamond accents (total 0.05ct). The 7-inch length with 1-inch extender provides adjustability, while the lobster clasp ensures security. Each pearl is matched for overtone within 0.2mm size graduation for visual harmony. Perfect for gifting or adding whimsy to your jewelry collection.",
+      "metal": "white pearl",
+      "movement": "bracelet",
+      "size": "7-8 inches, 6-8mm pearls",
+      "price": 899.99,
+      "quantity_left": 15,
+      "sold_quantity": 42,
+      "added_date": "2024-03-01",
+      "product_image": "https://www.pearlparadise.com/cdn/shop/files/pearl-charm-bracelet.jpg",
+      "reviews": [
+        {
+          "reviewer_name": "Sophie Williams",
+          "date": "2024-04-10",
+          "image": "https://fonact.com/wp-content/uploads/2022/03/WhatsApp-Image-2024-03-07-at-16.52.38-3.jpeg",
+          "comment": "The graduated pearls are so clever! Makes my wrist look dainty."
+        },
+        {
+          "reviewer_name": "James Carter",
+          "date": "2024-05-12",
+          "image": "https://sandiegomagazine.com/wp-content/uploads/2023/08/f449c1e463461b7f2f7969e246dd531e.jpg",
+          "comment": "Gave this to my niece for her sweet sixteen. She's obsessed with the charms."
+        }
+      ]
+    }
+  ]
+}
     

@@ -11,7 +11,7 @@ import "../Component/CSS/new_arrival.css";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-export default function NewArrival() {
+export default function BestSeller() {
     const { products } = useProduct();
 
     useEffect(() => {
@@ -19,7 +19,7 @@ export default function NewArrival() {
     }, []);
 
     const feature_products = (products?.sort((a, b) =>
-        new Date(b.added_date) - new Date(a.added_date))
+        b.sold_quantity - a.sold_quantity)
     ).slice(0, 7);
 
     return (

@@ -1,27 +1,36 @@
 import React from "react";
-// Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
-
-// Import Swiper styles
+import { Autoplay } from "swiper/modules"; 
 import "swiper/css";
 import useProduct from "../../../Data/useProduct";
 import RowMiniCard from "../../../Component/Shared/RowMiniCard";
 
 export default function AllProduct() {
-    const {products} = useProduct()
+  const { products } = useProduct();
+
   return (
-    <>
-      <Swiper watchSlidesProgress={true} slidesPerView={6} className="mySwiper">
-        <div className="">
-            {
-                products?.map(product => (
-                    <SwiperSlide>
-                        <RowMiniCard product={product}></RowMiniCard>
-                    </SwiperSlide>
-                ))
-            }
-        </div>
+    <div className="bg-[#F0F0F0] py-5">
+      <Swiper
+        spaceBetween={20}
+        modules={[Autoplay]}
+        autoplay={{
+          delay: 3000, 
+          disableOnInteraction: false,
+        }}
+        breakpoints={{
+          0: { slidesPerView: 1.5 },
+          640: { slidesPerView: 1.5 },
+          768: { slidesPerView: 2 },
+          1024: { slidesPerView: 5 },
+        }}
+        className="mySwiper"
+      >
+        {products?.map((product) => (
+          <SwiperSlide key={product.id}>
+            <RowMiniCard product={product} />
+          </SwiperSlide>
+        ))}
       </Swiper>
-    </>
+    </div>
   );
 }
