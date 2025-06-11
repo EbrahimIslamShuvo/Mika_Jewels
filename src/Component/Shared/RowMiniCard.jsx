@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { FaRegEye, FaRegHeart, FaPlus, FaMinus } from 'react-icons/fa';
+import { NavLink } from 'react-router-dom';
 
 const RowMiniCard = ({ product }) => {
     const [quantity, setQuantity] = useState(1);
@@ -33,10 +34,12 @@ const RowMiniCard = ({ product }) => {
                 </div>
 
                 {/* Product Info */}
-                <div className="flex flex-col gap-3">
-                    <h1 className="text-xl font-bold">{product.name}</h1>
-                    <p className=""><span className="font-semibold text-lg">Price:</span> ${product.price} USD</p>
-                </div>
+                <NavLink to={`/shop/${product.id}`}>
+                    <div className="flex flex-col gap-3">
+                        <h1 className="text-xl font-bold">{product.name}</h1>
+                        <p className=""><span className="font-semibold text-lg">Price:</span> ${product.price} USD</p>
+                    </div>
+                </NavLink>
             </div>
 
             {/* Modal */}

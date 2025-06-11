@@ -26,7 +26,7 @@ export default function NewArrival() {
         <div className='w-9/12 mx-auto'>
             <Header name={"New arrivals"} />
             <Swiper
-                slidesPerView={1.5}
+                slidesPerView={1}
                 spaceBetween={10}
                 breakpoints={{
                     640: { slidesPerView: 2.5, spaceBetween: 20 },

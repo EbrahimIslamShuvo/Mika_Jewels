@@ -11,6 +11,8 @@ import Shop from './Pages/Shop/Shop';
 import About from './Pages/About/About';
 import Contact from './Pages/Contact/Contact';
 import Blog from './Pages/Blog/Blog';
+import SingleBlog from './Pages/Blog/SingleBlog';
+import SingleProduct from './Pages/Shop/SingleProduct';
 
 const router = createBrowserRouter([
   {
@@ -36,6 +38,14 @@ const router = createBrowserRouter([
       {
         path: "/blog",
         element: <Blog></Blog>
+      },
+      {
+        path: "/blog/:id",
+        element: <SingleBlog></SingleBlog>
+      },
+      {
+        path: "/shop/:id",
+        element: <SingleProduct></SingleProduct>
       }
     ]
   },
