@@ -24,9 +24,9 @@ export default function BestSeller() {
 
     return (
         <div className='w-9/12 mx-auto'>
-            <Header name={"New arrivals"} />
+            <Header name={"Best Sellers"} />
             <Swiper
-                slidesPerView={1.5}
+                slidesPerView={1}
                 spaceBetween={10}
                 breakpoints={{
                     640: { slidesPerView: 2.5, spaceBetween: 20 },

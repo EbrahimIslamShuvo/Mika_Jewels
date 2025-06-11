@@ -18,8 +18,8 @@ export default function AllProduct() {
           disableOnInteraction: false,
         }}
         breakpoints={{
-          0: { slidesPerView: 1 },
-          640: { slidesPerView: 1 },
+          0: { slidesPerView: 1.3 },
+          640: { slidesPerView: 1.3 },
           768: { slidesPerView: 2 },
           1024: { slidesPerView: 5 },
         }}
